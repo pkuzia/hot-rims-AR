@@ -1,0 +1,32 @@
+/* 
+  Localizable.strings
+  HotRimsAR
+
+  Created by Przemysław Kuzia on 25.12.2016.
+  Copyright © 2016 Iterators Mobile. All rights reserved.
+*/
+
+// Picker View
+
+"no_result" = "No results";
+
+// Card View
+
+"details_button" = "Check details";
+
+// Details View
+
+"review_header" = "Review";
+"match_button_title" = "Match";
+"per_wheel" = " $ per wheel";
+
+// Filter View
+
+"filter_header" = "Filter";
+"min_price" = "Minimal price";
+"max_price" = "Maximal price";
+"min_stars" = "Minimal stars";
+
+// Unity View
+
+"unityCloseButton" = "Close";
