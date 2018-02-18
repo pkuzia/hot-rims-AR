@@ -23,8 +23,8 @@ By using Unity and Vuforia you can try rims on any defined target you like.
 ![](Screenshots/HotRimsArScreen2.png)
 ![](Screenshots/HotRimsArScreen3.png)
 ![](Screenshots/HotRimsArScreen4.png)
-![](Screenshots/HotRimsArScreen5.png)
-![](Screenshots/HotRimsArScreen6.png)
+![](Screenshots/HotRimsArScreen5.PNG)
+![](Screenshots/HotRimsArScreen6.PNG)
 
 ## Built With
 
